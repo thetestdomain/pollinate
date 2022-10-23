@@ -10,7 +10,7 @@ An Example - http://127.0.0.1:5000/query-example?date=2022-12-23-13:14:50
 
 The user can initiate the DB IP-address along with schema and table namein function "AddTimestamp"
 
-To Start Open Terminal and type in same directory downlaoded - python testflask.py
+To Start Open Terminal and type in same downloaded directory - python testflask.py
 
 I have also uploaded sql queries for Data Puzzles and DOC file for modelling and Azure Ingestion
 
